@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f51c59e7-ff44-1e96-f31f-89c4b5fbe309
 resourcetype: Document
 title: lees_assignment.pdf
 uid: 2b1f572e-12b5-b8e3-eb1d-7ba0149be9eb

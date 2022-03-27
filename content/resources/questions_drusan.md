@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f51c59e7-ff44-1e96-f31f-89c4b5fbe309
 resourcetype: Document
 title: questions_drusan.pdf
 uid: 3569a45f-cd22-4209-2a15-9a49d1d49f32

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f51c59e7-ff44-1e96-f31f-89c4b5fbe309
 resourcetype: Document
 title: thought_question.pdf
 uid: aeb3f94f-a210-0e9e-5f45-b1454da721a5
