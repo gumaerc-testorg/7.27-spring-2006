@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains 3 problem sets, 2 writing assignments and 1 set
+  of thought questions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,11 +12,11 @@ uid: f51c59e7-ff44-1e96-f31f-89c4b5fbe309
 Problem Sets
 ------------
 
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/727_ps1_06))
+Problem Set 1 ({{% resource_link bd84721f-2403-86a3-66b3-23bc617aa021 "PDF" %}})
 
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2_06))
+Problem Set 2 ({{% resource_link 859626ba-e1ca-65ee-f5a3-0722616a9293 "PDF" %}})
 
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3))
+Problem Set 3 ({{% resource_link 1ef0b56a-2027-65c7-d772-fcf3af87b76e "PDF" %}})
 
 Writing Assignments
 -------------------
@@ -45,7 +47,7 @@ Assignment 1
 Drusano, G. L. "Antimicrobial pharmacodynamics: critical interactions of 'bug and drug'." _Nat Rev Microbiol_ 2, no. 4 (April 2004): 289-300.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/questions_drusan))
+({{% resource_link 3569a45f-cd22-4209-2a15-9a49d1d49f32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +61,7 @@ Yu, Q., Y. Geng, and P. Sicinski. "Specific protection against breast cancers by
 Reiser, P. A., and L. E. Underwood. [_Turner Syndrome: A Guide for Families_](http://www.turnersyndrome.org/). Wayzata, MN: Turner Syndrome Society, 1992.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lees_assignment))
+({{% resource_link 2b1f572e-12b5-b8e3-eb1d-7ba0149be9eb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,4 +71,4 @@ Reiser, P. A., and L. E. Underwood. [_Turner Syndrome: A Guide for Families_](ht
 Thought Questions
 -----------------
 
-Ses #16 ([PDF]({{< baseurl >}}/resources/thought_question))
+Ses #16 ({{% resource_link aeb3f94f-a210-0e9e-5f45-b1454da721a5 "PDF" %}})
