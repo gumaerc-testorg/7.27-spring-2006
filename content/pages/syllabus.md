@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains an overview and list of topics for the course.
+  It also contains the grading criteria for various activities.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e72bb7f3-c390-a97f-c514-4dc859e8ff5e
 ---
