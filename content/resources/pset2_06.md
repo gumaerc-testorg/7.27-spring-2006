@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 4 problems from the course.
 file: /courses/7-27-principles-of-human-disease-spring-2006/859626bae1ca65eef5a30722616a9293_pset2_06.pdf
+file_size: 102620
 file_type: application/pdf
 learning_resource_types:
 - Assignments
