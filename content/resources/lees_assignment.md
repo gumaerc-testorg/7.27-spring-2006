@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 1 essay type question along with the criteria
   for its evaluation.
 file: /courses/7-27-principles-of-human-disease-spring-2006/2b1f572e12b5b8e3eb1d7ba0149be9eb_lees_assignment.pdf
+file_size: 16680
 file_type: application/pdf
 learning_resource_types:
 - Assignments
