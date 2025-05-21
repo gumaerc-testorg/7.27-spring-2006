@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 6 problems from the course.
-file: /ol-ocw-studio-app/courses/7-27-principles-of-human-disease-spring-2006/1ef0b56a202765c7d772fcf3af87b76e_pset3.pdf
+file: /courses/7-27-principles-of-human-disease-spring-2006/1ef0b56a202765c7d772fcf3af87b76e_pset3.pdf
 file_size: 117456
 file_type: application/pdf
 learning_resource_types:
