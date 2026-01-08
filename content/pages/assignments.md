@@ -58,7 +58,7 @@ Assignment 2
 {{< tdopen >}}
 Yu, Q., Y. Geng, and P. Sicinski. "Specific protection against breast cancers by cyclin D1 ablation." _Nature_ 411, no. 6841 (June 28, 2001): 1017-21.  
   
-Reiser, P. A., and L. E. Underwood. {{% resource_link "7be2318a-97ef-4753-8c27-259d144e3e60" "_Turner Syndrome: A Guide for Families_" %}}. Wayzata, MN: Turner Syndrome Society, 1992.
+Reiser, P. A., and L. E. Underwood. [_Turner Syndrome: A Guide for Families_](http://www.turnersyndrome.org/). Wayzata, MN: Turner Syndrome Society, 1992.
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link 2b1f572e-12b5-b8e3-eb1d-7ba0149be9eb "PDF" %}})
